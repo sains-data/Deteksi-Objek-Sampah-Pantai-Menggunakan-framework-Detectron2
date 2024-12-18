@@ -14,7 +14,7 @@ Detectron 2 is a next-generation, open-source object detection system from Faceb
 
 
 ## Detectron2 Architecture
-![Arsitektur Detectron2](Arsitektur.png)
+![Arsitektur Detectron2](Arsitektur Detectron2.png)
 
 R-CNN with Feature Pyramid Network is a basic Bounding box detector that can be extended to Mask R-CNN.
 
